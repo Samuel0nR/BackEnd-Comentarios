@@ -1,0 +1,76 @@
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\appsettings.json
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.exe
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.deps.json
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.runtimeconfig.json
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.runtimeconfig.dev.json
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\ref\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\BEComentarios.pdb
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.AssemblyInfo.cs
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\staticwebassets\BEComentarios.StaticWebAssets.Manifest.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\staticwebassets\BEComentarios.StaticWebAssets.xml
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\scopedcss\bundle\BEComentarios.styles.css
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.RazorTargetAssemblyInfo.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.CopyComplete
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\ref\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.pdb
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\obj\Debug\net5.0\BEComentarios.genruntimeconfig.cache
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Humanizer.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\samue\Desktop\Informatic\Angular\BEComentarios\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\appsettings.json
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.exe
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.deps.json
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.runtimeconfig.json
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.runtimeconfig.dev.json
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\ref\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\BEComentarios.pdb
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Humanizer.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.AssemblyInfo.cs
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\staticwebassets\BEComentarios.StaticWebAssets.Manifest.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\staticwebassets\BEComentarios.StaticWebAssets.xml
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\scopedcss\bundle\BEComentarios.styles.css
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.RazorTargetAssemblyInfo.cache
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.csproj.CopyComplete
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\ref\BEComentarios.dll
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.pdb
+C:\Users\samue\Desktop\Informatic\Angular\CRUD Comentarios\BEComentarios\obj\Debug\net5.0\BEComentarios.genruntimeconfig.cache
